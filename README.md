@@ -18,16 +18,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrinkhalaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/shrinkhalaa/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/shrinkhalaa/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
