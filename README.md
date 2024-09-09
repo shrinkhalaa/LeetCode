@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/shrinkhalaa/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
