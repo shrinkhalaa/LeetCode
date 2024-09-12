@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1319-unique-number-of-occurrences](https://github.com/shrinkhalaa/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -83,8 +84,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
