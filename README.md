@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/shrinkhalaa/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/shrinkhalaa/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
