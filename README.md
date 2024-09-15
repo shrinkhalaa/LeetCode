@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shrinkhalaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2211-k-radius-subarray-averages](https://github.com/shrinkhalaa/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shrinkhalaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shrinkhalaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shrinkhalaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Two Pointers
 |  |
 | ------- |
