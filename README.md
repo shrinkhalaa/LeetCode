@@ -129,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shrinkhalaa/LeetCode/tree/master/0682-baseball-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shrinkhalaa/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
