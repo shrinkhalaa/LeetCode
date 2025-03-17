@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/shrinkhalaa/LeetCode/tree/master/0561-array-partition) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
