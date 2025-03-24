@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrinkhalaa/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shrinkhalaa/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Sliding Window
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shrinkhalaa/LeetCode/tree/master/0682-baseball-game) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Database
 |  |
 | ------- |
