@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrinkhalaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/shrinkhalaa/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/shrinkhalaa/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3212-count-the-number-of-good-partitions](https://github.com/shrinkhalaa/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrinkhalaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shrinkhalaa/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrinkhalaa/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shrinkhalaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shrinkhalaa/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrinkhalaa/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/shrinkhalaa/LeetCode/tree/master/0206-reverse-linked-list) |
