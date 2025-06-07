@@ -17,25 +17,39 @@ public class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return null;
 
-        // Step 1: Create a mapping from original to copied node
-        HashMap<Node, Node> map = new HashMap<>();
+        // Step 1: Insert copy nodes between original nodes
         Node current = head;
-
         while (current != null) {
-            map.put(current, new Node(current.val));
-            current = current.next;
+            Node copy = new Node(current.val);
+            copy.next = current.next;
+            current.next = copy;
+            current = copy.next;
         }
 
-        // Step 2: Assign next and random pointers for the copied nodes
+        // Step 2: Assign random pointers to copied nodes
         current = head;
         while (current != null) {
-            Node copy = map.get(current);
-            copy.next = map.get(current.next);
-            copy.random = map.get(current.random);
+            if (current.random != null) {
+                current.next.random = current.random.next;
+            }
+            current = current.next.next;
+        }
+
+        // Step 3: Separate the interleaved list into original and copied
+        current = head;
+        Node pseudoHead = new Node(0);
+        Node copyCurrent = pseudoHead;
+
+        while (current != null) {
+            Node copy = current.next;
+            copyCurrent.next = copy;
+            copyCurrent = copy;
+
+            current.next = copy.next; // restore original list
             current = current.next;
         }
 
-        // Return the head of the copied list
-        return map.get(head);
+        return pseudoHead.next;
     }
 }
+
