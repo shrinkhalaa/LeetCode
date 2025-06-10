@@ -11,9 +11,10 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
+        //write code for checking if list contains only 1 or no node, then return null
         ListNode slow=head;
         ListNode fast=head;
-        int c=0;
+        
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
@@ -22,7 +23,7 @@ public class Solution {
                 while(slow!=fast){
                 slow=slow.next;
                 fast=fast.next;
-                c++;
+                
                 }
                 return slow;
             }
