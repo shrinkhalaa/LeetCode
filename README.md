@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrinkhalaa/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrinkhalaa/LeetCode/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrinkhalaa/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrinkhalaa/LeetCode/tree/master/0027-remove-element) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrinkhalaa/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/shrinkhalaa/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0088-merge-sorted-array) |
