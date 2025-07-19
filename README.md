@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shrinkhalaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/shrinkhalaa/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/shrinkhalaa/LeetCode/tree/master/0682-baseball-game) |
 | [1319-unique-number-of-occurrences](https://github.com/shrinkhalaa/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/shrinkhalaa/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrinkhalaa/LeetCode/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/shrinkhalaa/LeetCode/tree/master/0561-array-partition) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shrinkhalaa/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrinkhalaa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/shrinkhalaa/LeetCode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/shrinkhalaa/LeetCode/tree/master/0561-array-partition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Combinatorics
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shrinkhalaa/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/shrinkhalaa/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrinkhalaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
