@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/shrinkhalaa/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrinkhalaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shrinkhalaa/LeetCode/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/shrinkhalaa/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/shrinkhalaa/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrinkhalaa/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
