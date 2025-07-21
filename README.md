@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shrinkhalaa/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shrinkhalaa/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/shrinkhalaa/LeetCode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/shrinkhalaa/LeetCode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shrinkhalaa/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Combinatorics
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/shrinkhalaa/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shrinkhalaa/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/shrinkhalaa/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shrinkhalaa/LeetCode/tree/master/0682-baseball-game) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrinkhalaa/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Database
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shrinkhalaa/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrinkhalaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/shrinkhalaa/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/shrinkhalaa/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
