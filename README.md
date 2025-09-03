@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrinkhalaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shrinkhalaa/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shrinkhalaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shrinkhalaa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrinkhalaa/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrinkhalaa/LeetCode/tree/master/0016-3sum-closest) |
